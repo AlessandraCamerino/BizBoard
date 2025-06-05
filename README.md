@@ -10,7 +10,7 @@
 - 🔐 JWT authentication
 - 📊 REST API for managing customers (and more)
 - 🧱 Clean Architecture (Application, Domain, Infrastructure, API)
-- ⚙️ EF Core + SQL/MariaDB
+- ⚙️ EF Core + SQLServer
 - 🧪 Unit & Integration Testing
 - 🔄 CI/CD ready (GitHub Actions coming soon)
 
@@ -21,7 +21,7 @@
 - ASP.NET Core 8
 - Entity Framework Core
 - Angular 17 (coming soon)
-- SQL / MariaDB
+- SQLServer
 - xUnit
 
 ---
